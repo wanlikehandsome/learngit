@@ -1,15 +1,1 @@
-I'm a student
-my name is txb
-how about you?
-
-Creating a new branch is quick
-
- you know how handsome liangchaowei?
-
-what time is it now?
-
-the modify in issue-101
-the time is 11:02
-the time is 11:05
-
-the time is 11:06
+my name is Chinese
