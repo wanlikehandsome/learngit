@@ -2,3 +2,5 @@ I'm a studentmy name is txbhow about you?Creating a new branch is quick
 you know how handsome liangchaowei?what time is it now?the modify in issue-101the time is 11:02the time is 11:05the time is 11:06 
 jflafuuu
 中国
+能不能merge成功呢?
+编写程序一分钟， git merge 一小时
